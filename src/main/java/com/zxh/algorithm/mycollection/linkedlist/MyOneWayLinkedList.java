@@ -1,4 +1,4 @@
-package com.zxh.algorithm;
+package com.zxh.algorithm.mycollection.linkedlist;
 
 import java.util.Arrays;
 
